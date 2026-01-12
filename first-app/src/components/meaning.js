@@ -1,4 +1,4 @@
-import OverviewCard from "../overviewCard";
+import OverviewCard from "../pages/overviewCard";
 
 function Meaning() {
   return (

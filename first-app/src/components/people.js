@@ -1,4 +1,4 @@
-import OverviewCard from "../overviewCard";
+import OverviewCard from "../pages/overviewCard";
 
 function People() {
   return (
@@ -11,4 +11,5 @@ function People() {
     </div>
   );
 }
+
 export default People;

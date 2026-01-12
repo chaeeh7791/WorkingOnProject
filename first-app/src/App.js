@@ -1,10 +1,10 @@
-import Overview from "./overview";
+import Overview from "./pages/overview.js";
+import Growth from "./components/growth.js";
+import People from "./components/people.js";
+import Health from "./components/health.js";
+import Money from "./components/money.js";
+import Meaning from "./components/meaning.js";
 import "./app.css";
-import Growth from "./components/growth";
-import People from "./components/people";
-import Health from "./components/health";
-import Money from "./components/money";
-import Meaning from "./components/meaning";
 
 function App() {
   return (
