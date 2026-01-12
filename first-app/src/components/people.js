@@ -2,7 +2,7 @@ import OverviewCard from "../pages/overviewCard";
 
 function People() {
   return (
-    <div style={{ display: "grid", gap: "16px", padding: "20px" }}>
+    <div className="card">
       <OverviewCard
         icon="👥"
         title="People"

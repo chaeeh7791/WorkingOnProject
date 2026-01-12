@@ -7,7 +7,7 @@ function Health() {
   const [sleep, setSleep] = useState("");
 
   return (
-    <div style={{ display: "grid", gap: "16px", padding: "20px" }}>
+    <div className="card">
       <OverviewCard
         icon="💪"
         title="Health"

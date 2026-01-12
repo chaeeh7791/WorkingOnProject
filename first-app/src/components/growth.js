@@ -4,7 +4,7 @@ import { useState } from "react";
 function Growth() {
   const [lesson, setLesson] = useState("");
   return (
-    <div style={{ display: "grid", gap: "16px", padding: "20px" }}>
+    <div className="card">
       <OverviewCard
         icon="📚"
         title="Growth"
